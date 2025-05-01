@@ -1,0 +1,80 @@
+.header{
+height: 100px;
+background-color: red;
+}
+.wrapper{
+	overflow: hidden;
+}
+.blog{
+	float: left;
+	width: 70%;
+	height: 150px;
+	background-color: green;
+}
+.contact{
+	float: right;
+	width: 30%;
+	height: 150px;
+background-color: blue;
+}
+.container{
+	overflow: hidden;
+}
+.item1{
+	float: left;
+	width: 33.33%;
+	height: 130px;
+	background-color: teal;
+
+}
+.item2{
+	float: left;
+	width: 33.33%;
+	height: 130px;
+	background-color: yellow;
+
+}
+.item3{
+	float: left;
+	width: 33.33%;
+	height: 130px;
+	background-color: palegreen;
+
+}
+.box{
+	overflow: hidden;
+}
+.list1{
+	float: left;
+	width: 25%;
+	height: 120px;
+	background-color: olive;
+
+}
+.list2{
+	float: left;
+	width: 25%;
+	height: 120px;
+	background-color: hotpink;
+
+}
+.list3{
+	float: left;
+	width: 25%;
+	height: 120px;
+	background-color: orchid;
+
+}
+.list4{
+	float: left;
+	width: 25%;
+	height: 120px;
+	background-color: orange;
+
+}
+.footer{
+
+	height: 100px;
+background-color: black;
+
+}
